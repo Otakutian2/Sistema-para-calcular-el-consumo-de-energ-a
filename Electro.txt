@@ -1,0 +1,23 @@
+Computadora;/img2/ordenador-de-sobremesa (1).png;0.72;1.0;1
+Foco ahorrador;/img2/bulbo.png;0.15;1.0;1
+Cocina;/img2/cocina.png;4.5;1.0;1
+TV;/img2/monitor-de-tv.png;0.12;1.0;1
+Terma;/img2/water-heater.png;1.5;1.0;1
+Equipo de video;/img2/reproductor-de-dvd.png;0.02;1.0;1
+Equipo de sonido;/img2/equipo-de-sonido.png;0.03;1.0;1
+Foco incandecente;/img2/bombilla-de-idea.png;0.4;1.0;1
+Foco led;/img2/bombilla.png;0.01;1.0;1
+Hervidor;/img2/hervidor-electrico.png;1.5;1.0;1
+Lavadora;/img2/lavadora.png;0.5;1.0;1
+Licuadora;/img2/licuadora.png;0.6;1.0;1
+Aspiradora;/img2/aspiradora.png;1.4;1.0;1
+Microondas;/img2/microonda.png;1.1;1.0;1
+Olla arrocera;/img2/olla-arrocera.png;1.0;1.0;1
+Plancha;/img2/planchar.png;1.0;61.0;1
+Celular;/img2/telefono-celular.png;0.03;1.0;12
+Refrigeradora;/img2/refrigerador.png;0.3;1.0;1
+Secador de cabello;/img2/secador-de-pelo.png;1.2;1.0;1
+Ventilador;/img2/ventilador.png;0.05;1.0;1
+Calentador;/img2/calentador.png;1.5;1.0;1
+Ducha Electrica;/img2/calentador-de-agua.png;4.0;1.0;1
+Aire Acondicionado;/img2/aire-acondicionado.png;2.0;1.0;1
